@@ -45,6 +45,18 @@
 |----------------|------------------|----------------------|------------------|-------------------|--------------|
 | sample.mov     | with hardhat     | 124.6                | 85.3             | 4.3               | 2.5          |
 
+# AI Assistance
+
+Parts of the code and documentation for this project were developed with the help of AI tools, including ChatGPT, for tasks such as debugging, implementation guidance, and cleaning the code for when the implementation was complete. The majority of the implementation was written by me.
+
+## ⚠️ Warning
+
+Data is not included in this repository due to privacy concerns. If you wish to test the implementation, please refer to the associated research paper and replicate the experiment independently.
+
+**Paper Status:** Under review
+
+
+
 ## Dependencies
 
 - Python 3.x
