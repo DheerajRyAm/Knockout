@@ -67,13 +67,3 @@ Install them via:
 
 ```bash
 pip install opencv-python numpy
-
-
-
-
-
-
-# AI Assistance
-
-Parts of the code and documentation for this project were developed with the help of AI tools, including ChatGPT, for tasks such as debugging, implementation guidance, and cleaning the code for when the implementation was complete. The majority of the implementation was written by me.
-
